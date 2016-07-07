@@ -38,6 +38,6 @@ This project is licensed under the [Apache License, Version 2.0](http://www.apac
 One of the jar files in the android/libs directory (google-api-translate-java-0.98-mod2.jar) is licensed under the [GNU Lesser GPL](http://www.gnu.org/licenses/lgpl.html).
 
 
-![](https://github.com/doujinhai123/Ocr/commit/2ed2c9a1e7371d51608a7382a99230e75be75778)
+![image text](https://github.com/doujinhai123/Ocr/blob/master/OCRTest/src/main/res/drawable/aajpg.jpg)
 
 
